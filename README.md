@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chwajid007
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
+- 🌱 React Native developer.
 - 💞️ I’m looking to collaborate on...
 - 📫 You can reach me by an email (wa536294@gmail.com)
 
